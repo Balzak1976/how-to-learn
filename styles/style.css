@@ -303,16 +303,6 @@
   flex-basis: 711px;
 }
 
-.footer__column_conten_info {
-  height: fit-content;
-  margin-bottom: 16px;
-}
-
-.footer__column_conten_social {
-  height: fit-content;
-  margin-bottom: 16px;
-}
-
 .footer__author {
   padding: 18px 0;
   line-height: 25px;
@@ -330,6 +320,7 @@
 
 .footer__column-links {
   margin: 0;
+  margin-bottom: 16px;
   padding: 0;
   list-style: none;
 }
