@@ -1,0 +1,6 @@
+.table_theme_dark {
+  color: #fff;
+  padding-top: 80px;
+  row-gap: 80px;
+  z-index: 1;
+}
